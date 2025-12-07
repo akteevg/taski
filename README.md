@@ -9,7 +9,6 @@
 - **Django REST Framework** 3.12.4 — REST API
 - **django-cors-headers** 3.13.0 — обработка CORS
 - **SQLite** — база данных
-- **Token Authentication** — аутентификация
 
 ### Frontend
 - **React** 18.2.0 — UI библиотека
